@@ -50,3 +50,7 @@ package() {
 
   install -Dm755 "../vesktop.sh" "$pkgdir/usr/bin/$pkgname" # Start script
 }
+sha256sums=('77fcd7a40578f867a3f7c77dc90b3aadf167e383bdd9f395e47a59550cda8292'
+            'c7845033716d7fdec2ea1daf8c3575b504bc6a5c19c702e3722a0e6237ae571f'
+            '4a790359a465979dbf3b5d815ed0d5f3f8a381a5ae08e1b359cee40dbd81d2ad'
+            '122b17ce996318e533e6f2ab1c9b2961b39c3eba271c9b40f10c0da5dd738baa')
